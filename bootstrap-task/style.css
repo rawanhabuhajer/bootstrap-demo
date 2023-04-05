@@ -1,0 +1,14 @@
+.new-arrival{
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.bar {
+    margin: 20px;
+    width: 210px;
+    color: #727171;
+}
+
+
